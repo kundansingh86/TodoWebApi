@@ -2,7 +2,7 @@
 
 This is a Todo application that follows Clean Architecture and features:
 
-- [**Todo.CORE**](ToDo.CORE) - A C# class library that contains all entities and interfaces.
+- [**Todo.Core**](ToDo.Core) - A C# class library that contains all entities and interfaces.
 - [**Todo.Infra**](ToDo.Infra) - A C# class library that contains implementation repositiory classes and database logic.
 - [**Todo.WebAPI**](ToDo.WebAPI) - An ASP.NET Core REST API backend
 
