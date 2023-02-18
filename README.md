@@ -16,7 +16,7 @@ This is a Todo application that follows Clean Architecture and features:
 ### Database
 
 1. Run the script "[db_mytodoapp.sql](db_mytodoapp.sql)" in SQL Server to create the DB and related tables.
-2. Change the ConnectionString in "ToDo.WebAPI → appsetting.json" with your database.
+2. Change the ConnectionString in "ToDo.WebAPI → appsettings.json" with your database.
 
 ![image](https://user-images.githubusercontent.com/3891454/219577199-8d64fdc4-cafc-49b2-a3c3-7afde6205449.png)
 
